@@ -1,0 +1,5 @@
+Host gerrit
+    HostName 192.168.0.121
+    Port 29418
+    User user1
+    IdentityFile ~/.ssh/id_rsa
